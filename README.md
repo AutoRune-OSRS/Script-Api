@@ -1,3 +1,3 @@
 # AutoRune Scripting API
 
-AutoRune is an OldSchool RuneScape automation platform that is developed solely in Kotlin.The aim of this project is to produce well written software for educational purposes.
+The scripting api exposes everything needed to create osrs scripts to the platform users. It is a simplification and extension of the actual osrs api which is generated from the hooks and mixins.
